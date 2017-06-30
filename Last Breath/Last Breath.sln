@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Last Breath.Plugins", "Last Breath.Plugins.csproj", "{543D49C6-8A23-59F4-B199-3D9E3379FCAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Last Breath", "Last Breath.csproj", "{D2ED2537-0A49-D83B-0CC6-79F869D6C673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Last Breath.Editor.Plugins", "Last Breath.Editor.Plugins.csproj", "{15E97D8E-C5E9-F459-A6FF-D49F2ABC2F93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543D49C6-8A23-59F4-B199-3D9E3379FCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543D49C6-8A23-59F4-B199-3D9E3379FCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543D49C6-8A23-59F4-B199-3D9E3379FCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543D49C6-8A23-59F4-B199-3D9E3379FCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2ED2537-0A49-D83B-0CC6-79F869D6C673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2ED2537-0A49-D83B-0CC6-79F869D6C673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2ED2537-0A49-D83B-0CC6-79F869D6C673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2ED2537-0A49-D83B-0CC6-79F869D6C673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E97D8E-C5E9-F459-A6FF-D49F2ABC2F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E97D8E-C5E9-F459-A6FF-D49F2ABC2F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E97D8E-C5E9-F459-A6FF-D49F2ABC2F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E97D8E-C5E9-F459-A6FF-D49F2ABC2F93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
